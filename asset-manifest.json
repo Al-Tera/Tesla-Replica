@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tesla-replica/static/css/main.03ca4dae.chunk.css",
+    "main.css": "/tesla-replica/static/css/main.b04f514c.chunk.css",
     "main.js": "/tesla-replica/static/js/main.f18dc3cb.chunk.js",
     "main.js.map": "/tesla-replica/static/js/main.f18dc3cb.chunk.js.map",
     "runtime-main.js": "/tesla-replica/static/js/runtime-main.5eb53d00.js",
@@ -10,7 +10,7 @@
     "static/js/3.a09c8a1e.chunk.js": "/tesla-replica/static/js/3.a09c8a1e.chunk.js",
     "static/js/3.a09c8a1e.chunk.js.map": "/tesla-replica/static/js/3.a09c8a1e.chunk.js.map",
     "index.html": "/tesla-replica/index.html",
-    "static/css/main.03ca4dae.chunk.css.map": "/tesla-replica/static/css/main.03ca4dae.chunk.css.map",
+    "static/css/main.b04f514c.chunk.css.map": "/tesla-replica/static/css/main.b04f514c.chunk.css.map",
     "static/js/2.86e91e1d.chunk.js.LICENSE.txt": "/tesla-replica/static/js/2.86e91e1d.chunk.js.LICENSE.txt",
     "static/media/burger.e80aef55.svg": "/tesla-replica/static/media/burger.e80aef55.svg",
     "static/media/tesla-3.30651f79.jpeg": "/tesla-replica/static/media/tesla-3.30651f79.jpeg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.5eb53d00.js",
     "static/js/2.86e91e1d.chunk.js",
-    "static/css/main.03ca4dae.chunk.css",
+    "static/css/main.b04f514c.chunk.css",
     "static/js/main.f18dc3cb.chunk.js"
   ]
 }
